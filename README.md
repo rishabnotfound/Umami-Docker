@@ -43,3 +43,4 @@ docker compose up -d --force-recreate
 
 
 # Database data is stored in data/.
+### Note : As for clouaflare pointing , just ADD A "A" RECORD IN DNS RECORDS WITH THE POINTING TO THE SERVER IP WITH PROXIED SWITCH ON , AND THATS IT, IT WILL WORK THEN YOU WILL BE ABLE TO ACCESS UMAMI DASHBOARD BY DOMAIN YOU POINTED
